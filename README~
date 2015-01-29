@@ -1,0 +1,4 @@
+Simple C Program to send and receive an icmp packets (ping).
+This code can also calculate the latency between send and replay.
+
+Enjoy.
